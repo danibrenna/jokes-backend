@@ -1,0 +1,15 @@
+{
+  "entryFile": "src/app.ts",
+  "noImplicitAdditionalProperties": "throw-on-extras",
+  "controllerPathGlobs": ["src/**/*Controller.ts"],
+  "spec": {
+    "outputDirectory": "build",
+    "specVersion": 3,
+    "host": "jokes.danibrenna.it/api",
+    "basePath": "/",
+    "schemes": ["https"]
+  },
+  "routes": {
+    "routesDir": "build"
+  }
+}

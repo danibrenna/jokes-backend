@@ -1,0 +1,9 @@
+node_modules
+logs
+env
+yarn.lock
+package-lock.json
+.vscode
+build
+compiled
+wsdl
